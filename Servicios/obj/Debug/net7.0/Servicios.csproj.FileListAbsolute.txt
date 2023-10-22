@@ -1,0 +1,15 @@
+C:\Users\DELL\source\repos\Servicios\obj\Debug\net7.0\Servicios.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\Servicios\obj\Debug\net7.0\Servicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\Servicios\obj\Debug\net7.0\Servicios.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\Servicios\obj\Debug\net7.0\Servicios.AssemblyInfo.cs
+C:\Users\DELL\source\repos\Servicios\obj\Debug\net7.0\Servicios.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Servicios\bin\Debug\net7.0\Servicios.deps.json
+C:\Users\DELL\source\repos\Servicios\bin\Debug\net7.0\Servicios.dll
+C:\Users\DELL\source\repos\Servicios\bin\Debug\net7.0\Servicios.pdb
+C:\Users\DELL\source\repos\Servicios\bin\Debug\net7.0\Infraestructure.dll
+C:\Users\DELL\source\repos\Servicios\bin\Debug\net7.0\Infraestructure.pdb
+C:\Users\DELL\source\repos\Servicios\obj\Debug\net7.0\Servicios.csproj.CopyComplete
+C:\Users\DELL\source\repos\Servicios\obj\Debug\net7.0\Servicios.dll
+C:\Users\DELL\source\repos\Servicios\obj\Debug\net7.0\refint\Servicios.dll
+C:\Users\DELL\source\repos\Servicios\obj\Debug\net7.0\Servicios.pdb
+C:\Users\DELL\source\repos\Servicios\obj\Debug\net7.0\ref\Servicios.dll
